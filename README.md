@@ -3,10 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mkcodes-in&label=Profile%20views&color=0e75b6&style=flat" alt="mkcodes-in" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mkcodes-in" alt="mkcodes-in" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
 - 🔭 I’m currently working on [Personal Portfolio](https://github.com/Mkcodes-in/landing-page)
 
 - 🌱 I’m currently learning **Next.js, TypeScript, and Motion UI (Framer Motion/GSAP)**
