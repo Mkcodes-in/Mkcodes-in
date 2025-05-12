@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [[GitHub/Mkcodes-in](https://github.com/Mkcodes-in)]([GitHub/Mkcodes-in](https://github.com/Mkcodes-in))
 
-- 📝 I regularly write articles on [✍️ Blog coming soon... Writing tutorials on frontend tricks and UI/UX.](✍️ Blog coming soon... Writing tutorials on frontend tricks and UI/UX.)
+- 📝 I regularly write articles on [✍️ Blog coming soon... Writing tutorials on frontend tricks and UI/UX.]
 
 - 💬 Ask me about **React, Tailwind CSS, GSAP Animations, and responsive design**
 
