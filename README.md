@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on [Open Source UI Libraries or React-based tools](https://github.com/Mkcodes-in)
 
-- 👨‍💻 All of my projects are available at [[GitHub/Mkcodes-in](https://github.com/Mkcodes-in)]([GitHub/Mkcodes-in](https://github.com/Mkcodes-in))
+- 👨‍💻 All of my projects are available at [[GitHub/Mkcodes-in](https://github.com/Mkcodes-in)]
 
 - 💬 Ask me about **React, Tailwind CSS, GSAP Animations, and responsive design**
 
