@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mkcodes-in&label=Profile%20views&color=0e75b6&style=flat" alt="mkcodes-in" /> </p>
 
-- 🔭 I’m currently working on [Personal Portfolio](https://github.com/Mkcodes-in/landing-page)
+- Personal Portfolio: (https://mkcodess.vercel.app)
 
 - 🌱 I’m currently learning **Next.js, TypeScript, and Motion UI (Framer Motion/GSAP)**
 
