@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mkcodes-in&label=Profile%20views&color=0e75b6&style=flat" alt="mkcodes-in" /> </p>
 
-- 🌱 I’m currently learning **Node js, Express js, and mongo DB**
+##  Currently learning *Backend* > **Node js, Express js, and mongo DB**
 
-- 📫 Reach me **mkcodes.in@gmail.com**
+## 📫 Reach me **mkcodes.in@gmail.com**
 
-- 💼 Resume/Portfolio coming soon... [https://github.com/Mkcodes-in](https://github.com/Mkcodes-in)
+## 💼 Resume/Portfolio [https://github.com/Mkcodes-in](https://github.com/Mkcodes-in)
 
-- ⚡ Fun fact **⚡ React is my therapy. Tailwind is my vibe. Bugs? My daily puzzles.**
+## ⚡ Fun fact **⚡ React is my therapy. Tailwind is my vibe. Bugs? My daily puzzles.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
