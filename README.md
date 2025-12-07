@@ -1,17 +1,9 @@
 <h1 align="center">Hi 👋, I'm Munna -Dev</h1>
-<h3 align="center">💻 Frontend Developer | React, JavaScript, Tailwind CSS | Generative Ai</h3>
+<h3 align="center">💻 Frontend Developer | Generative Ai | React, JavaScript, Tailwind CSS </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mkcodes-in&label=Profile%20views&color=0e75b6&style=flat" alt="mkcodes-in" /> </p>
 
-- Personal Portfolio: (https://mkcodess.vercel.app)
-
-- 🌱 I’m currently learning **Next.js, TypeScript, and Motion UI (Framer Motion/GSAP)**
-
-- 👯 I’m looking to collaborate on [Open Source UI Libraries or React-based tools](https://github.com/Mkcodes-in)
-
-- 👨‍💻 All of my projects are available at [[GitHub/Mkcodes-in](https://github.com/Mkcodes-in)]
-
-- 💬 Ask me about **React, Tailwind CSS, GSAP Animations, and responsive design**
+- 🌱 I’m currently learning **Node js, Express js, and mongo DB**
 
 - 📫 Reach me **mkcodes.in@gmail.com**
 
