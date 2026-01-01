@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Munna -Dev</h1>
-<h3 align="center">💻 Frontend Developer | Generative Ai | React, JavaScript, Tailwind CSS </h3>
+<h3 align="center">Frontend Developer | Generative Ai | TypeScript, JavaScript</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mkcodes-in&label=Profile%20views&color=0e75b6&style=flat" alt="mkcodes-in" /> </p>
 
