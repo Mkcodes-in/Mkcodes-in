@@ -17,10 +17,6 @@ Comfortable working with modern backend services like **Supabase** and **Firebas
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Mkcodes-in&theme=tokyonight" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mkcodes-in&layout=compact&theme=tokyonight" />
 </p>
 
