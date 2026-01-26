@@ -47,7 +47,9 @@ Comfortable working with modern backend services like **Supabase** and **Firebas
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+
 ## 🌐 Connect With Me
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/munna-kumar-95b381264/">
