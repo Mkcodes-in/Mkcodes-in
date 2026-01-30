@@ -13,10 +13,6 @@ Comfortable working with modern backend services like **Supabase** and **Firebas
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mkcodes-in&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mkcodes-in&layout=compact&theme=tokyonight" />
 </p>
 
