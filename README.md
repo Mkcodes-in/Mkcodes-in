@@ -10,12 +10,6 @@ Comfortable working with modern backend services like **Supabase** and **Firebas
 ![Snake animation](https://github.com/Mkcodes-in/Mkcodes-in/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 ![Snake animation](https://github.com/Mkcodes-in/Mkcodes-in/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mkcodes-in&layout=compact&theme=tokyonight" />
-</p>
-
 
 ## 🛠️ Tech Stack
 
